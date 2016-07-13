@@ -1,0 +1,12 @@
+E:\Escola\Projetos\ProjetoLabirinto\ProjetoLabirinto\bin\Debug\ProjetoLabirinto.exe.config
+E:\Escola\Projetos\ProjetoLabirinto\ProjetoLabirinto\bin\Debug\ProjetoLabirinto.exe
+E:\Escola\Projetos\ProjetoLabirinto\ProjetoLabirinto\bin\Debug\ProjetoLabirinto.pdb
+E:\Escola\Projetos\ProjetoLabirinto\ProjetoLabirinto\obj\Debug\ProjetoLabirinto.csprojResolveAssemblyReference.cache
+E:\Escola\Projetos\ProjetoLabirinto\ProjetoLabirinto\obj\Debug\ProjetoLabirinto.exe
+E:\Escola\Projetos\ProjetoLabirinto\ProjetoLabirinto\obj\Debug\ProjetoLabirinto.pdb
+C:\Users\Aline\Desktop\ProjetoLabirinto\ProjetoLabirinto\bin\Debug\ProjetoLabirinto.exe.config
+C:\Users\Aline\Desktop\ProjetoLabirinto\ProjetoLabirinto\obj\Debug\ProjetoLabirinto.exe
+C:\Users\Aline\Desktop\ProjetoLabirinto\ProjetoLabirinto\obj\Debug\ProjetoLabirinto.pdb
+C:\Users\Aline\Desktop\ProjetoLabirinto\ProjetoLabirinto\bin\Debug\ProjetoLabirinto.exe
+C:\Users\Aline\Desktop\ProjetoLabirinto\ProjetoLabirinto\bin\Debug\ProjetoLabirinto.pdb
+C:\Users\Aline\Desktop\ProjetoLabirinto\ProjetoLabirinto\obj\Debug\ProjetoLabirinto.csprojResolveAssemblyReference.cache
