@@ -1,2 +1,5 @@
 *.txt~
-bin
+bin/
+.classpath
+.project
+.settings/
